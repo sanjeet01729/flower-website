@@ -1,0 +1,26 @@
+{
+  "projectType": "other",
+  "pages": [
+    "Home"
+  ],
+  "components": [
+    "FlowerCard",
+    "ImageGallery",
+    "ContactForm",
+    "HeroSection"
+  ],
+  "entities": {},
+  "relationships": [],
+  "auth": {},
+  "storage": {},
+  "integrations": {
+    "enabled": true,
+    "services": [
+      "github"
+    ]
+  },
+  "deployment": {},
+  "needs_database": false,
+  "needs_auth": false,
+  "needs_backend": false
+}
